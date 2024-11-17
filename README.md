@@ -15,7 +15,7 @@ The website, built using WIX, provides customers with:
 ## Key Features
 
 1. **Design Catalog**:
-   - Showcases a wide variety of photo strip designs in various sizes and colors.
+   - Showcases various photo strip designs in various sizes and colors.
    - Highlights unique customization options, such as attaching photos to glass or creating albums.
 
 2. **Interactive Engagement**:
@@ -57,3 +57,9 @@ The website has significantly improved the business's online presence by:
 ## Acknowledgements
 
 Special thanks to the business owners for their creative vision and collaboration throughout the project.
+
+## Website
+
+Don't forget to have a visit:  
+[Visit the website]([https://example.wixsite.com/selfiestation](https://www.kytwins.com/?fbclid=PAZXh0bgNhZW0CMTEAAabj2fW3RbJXhqjMi2FVF-XMgTYGhsG55Ll2wJ3ACkfgqwhvr8Gx9rxGzxA_aem__4eRIrJWSMLCqQvtv-ejXA))
+
